@@ -1,3 +1,6 @@
+> 📌 **中文学习副本 / Chinese study copy** —— 本仓库是 [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)（MIT License, © 2024 shareAI Lab）的副本。
+> 上游的 17 级教程代码与文档保持原样；本副本新增了[中文上手说明](从这里开始.md)、`run.cmd` 一键启动器、`自检.py` 以及 Windows 运行修复，详见[来源与改动说明.md](来源与改动说明.md)。
+
 [English](./README.md) | [中文](./README-zh.md) | [日本語](./README-ja.md)
 
 <a href="https://trendshift.io/repositories/19746" target="_blank"><img src="https://trendshift.io/api/badge/repositories/19746" alt="shareAI-lab%2Flearn-claude-code | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
